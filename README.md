@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://www.codewars.com/users/Afsha10/badges/large" alt="my CodeWars score" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=afsha10&label=Profile%20views&color=0e75b6&style=flat" alt="afsha10" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **unityofbeing1@gmail.com**
@@ -42,4 +40,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afsha10&show_icons=true&locale=en" alt="afsha10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afsha10&" alt="afsha10" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=afsha10&label=Profile%20views&color=0e75b6&style=flat" alt="afsha10" /> </p>
 
