@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Afsha.</h1>
+<h1 align="center">Hi, I'm Afsha.</h1>
 <h3 align="center">A trainee at Code Your Future from London, UK.</h3>
 
 <br/>
