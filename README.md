@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋 ! I'm Afsha</h1>
-<h3 align="center">A trainee at Code Your Future from London, UK</h3>
+<h3 align="center">A trainee at Code Your Future London, UK</h3>
 
 <br/>
 
 <p align="center"> <img src="https://www.codewars.com/users/Afsha10/badges/large" alt="my CodeWars score" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **unityofbeing1@gmail.com**
 
