@@ -46,10 +46,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Afsha10&show_icons=true&theme=radical" alt="Afsha's GitHub Stats" />
 </section>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afsha10&show_icons=true&locale=en" alt="Afsha's Github Stat 2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afsha10&" alt="Afsha's Github Stat on contributions and longest streak" /></p>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afsha10&theme=dracula&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
 <br/>
 
