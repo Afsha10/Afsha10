@@ -35,10 +35,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsha10&layout=compact&theme=vision-friendly-light"" alt="Afsha's GitHub Streak" />
 </section>
 
-<div align="left">
-
-
-
+<p align="center">
 
 <section>
     <img src="https://github-readme-stats.vercel.app/api?username=Afsha10&show_icons=true&theme=radical" alt="Afsha's GitHub Stats" />
@@ -47,6 +44,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afsha10&theme=dracula&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
 <br/>
 
-</div>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=afsha10&label=Profile%20views&color=0e75b6&style=flat" alt="afsha10" /> </p>
