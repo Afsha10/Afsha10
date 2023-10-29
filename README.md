@@ -35,7 +35,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsha10&layout=compact&theme=vision-friendly-light"" alt="Afsha's GitHub Streak" />
 </section>
 
-<span align="center">
+<span>
 
 <section>
     <img src="https://github-readme-stats.vercel.app/api?username=Afsha10&show_icons=true&theme=radical" alt="Afsha's GitHub Stats" />
