@@ -37,7 +37,7 @@
 
 <div align="left">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afsha10&theme=light&background="white")](https://git.io/streak-stats)
+
 
 
 <section>
