@@ -28,7 +28,6 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-
 <section>
     <h3>
         Top Languages/Framework
@@ -40,6 +39,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afsha10&theme=light&background="white")](https://git.io/streak-stats)
 
+
+<section>
+    <img src="https://github-readme-stats.vercel.app/api?username=Afsha10&show_icons=true&theme=radical" alt="Afsha's GitHub Stats" />
+</section>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afsha10&theme=dracula&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
 <br/>
