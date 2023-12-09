@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi 👋 ! I'm Afsha</h1>
-  <h3>A trainee at Code Your Future.</h3>
+  <h3>Full-stack software developer from Code Your Future, London10 cohort</h3>
 
   <br/>
 
