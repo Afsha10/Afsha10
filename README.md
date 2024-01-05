@@ -1,7 +1,10 @@
 <div align="center">
 
   <h1>Hi 👋 ! I'm Afsha</h1>
-  <h3>Full-stack software developer from Code Your Future, London10 cohort</h3>
+  <h3>
+    Full-stack software developer from 
+    <a href="https://codeyourfuture.io/" target="_blank">CodeYourFuture</a>
+  </h3>
 
   <br/>
 
@@ -12,15 +15,14 @@
 <p>🌍 Based in London, UK</p>  
 <p>📫 You can reach me at: unityofbeing1@gmail.com</p>   
 <p>🌱 Currently building full stack websites from scratch</p>   
-<p> ⚡ Fun fact about me: I am a ballroom and Latin dancer</p>  
+<!-- <p> ⚡ Fun fact about me: I am a ballroom and Latin dancer</p>   -->
   </div>
-
 
   <!-- <h3>
   Connect with me: 
   <a href="https://linkedin.com/in/www.linkedin.com/in/afsha-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/afsha-h" height="30" width="40" /></a>
   </h3>
-  <br> -->
+  <br>
 
   <h3>🛠️ Main Skills:</h3>
 
@@ -91,7 +93,7 @@
 
   <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afsha10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afsha10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   <div>
     <span>
@@ -99,12 +101,11 @@
     </span>
   <span>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afsha10&theme=dracula&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afsha10&theme=dracula&border_radius=9.4&date_format=j%20M%5B%20Y%5D&card_width=526)](https://git.io/streak-stats)
 
   </span>
 
   </div>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=afsha10&label=Profile%20views&color=0e75b6&style=flat" alt="Afsha's profile viewed stats" /> </p>
-</div>
-
+</div> -->
