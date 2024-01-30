@@ -3,7 +3,7 @@
   <h1>Hi 👋 ! I'm Afsha</h1>
   <p>
     Software developer from 
-    <a href="https://codeyourfuture.io/" target="_blank">CodeYourFuture</a>. Based in London, UK. Currently, learning Python and building full stack websites from scratch. You can reach me at: unityofbeing1@gmail.com
+    <a href="https://codeyourfuture.io/" target="_blank">CodeYourFuture</a>. Based in London, UK. Currently, learning Python, cloud computing and building full stack websites from scratch. You can reach me at: unityofbeing1@gmail.com
   </p>
 
   <br/>
